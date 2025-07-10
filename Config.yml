@@ -1,0 +1,12 @@
+####################################
+#                                  #
+#      TABIFY CONFIGURATION        #
+#                                  #
+####################################
+
+# HEADER SETTINGS
+
+Header: "&a&lTabify Plugin \n &fWelcome, %player_name% \n &3www.domain.com \n%animations_<shine>------------------------------</shine>%"
+
+# FOOTER SETTINGS
+Footer: "%animations_<shine>------------------------------</shine>% \n &7Seconds lived &f- &a%player_seconds_lived% \n &7Health - &c%player_health%"
