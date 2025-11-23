@@ -2,7 +2,7 @@
 
 ![Tabify-Logo](https://i.imgur.com/u0CJsYX.png)
 
-**Tabify** is a lightweight and modern **tab list plugin** for Minecraft servers (1.20 – 1.21.7). With support for HEX colors and [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), Tabify lets you display clean, dynamic messages in your tab list — all through a simple, easy-to-understand config.
+**Tabify** is a lightweight and modern **tab list plugin** for Minecraft servers (1.20 – 1.21.10). With support for HEX colors and [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), Tabify lets you display clean, dynamic messages in your tab list — all through a simple, easy-to-understand config.
 
 ---
 
@@ -12,13 +12,13 @@
 - ⚡ **Lightweight & performance-friendly**
 - 🎨 **HEX color support** (`&#rrggbb`, 1.16+)
 - 🧾 **Simple and easy-to-use configuration**
-- 🧱 Supports **Minecraft 1.20 – 1.21.7**
+- 🧱 Supports **Minecraft 1.20 – 1.21.10**
 
 ---
 
 ## 📦 Requirements
 
-- **Minecraft Server**: Spigot or Paper (1.20 to 1.21.7)
+- **Minecraft Server**: Spigot or Paper (1.20 to 1.21.10)
 - **Dependency**: [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
 ---
