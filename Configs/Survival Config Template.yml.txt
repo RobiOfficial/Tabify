@@ -1,0 +1,8 @@
+####################################
+#            TABIFY                #
+#       SURVIVAL TEMPLATE          #
+####################################
+
+Header: "&a&lSURVIVAL SERVER \n &fWelcome back, &a%player_name% \n &7Play with friends and survive! \n%animations_<shine>------------------------------</shine>%"
+
+Footer: "%animations_<shine>------------------------------</shine>% \n &7Health: &c%player_health% &8| &7Alive: &a%player_seconds_lived%s"

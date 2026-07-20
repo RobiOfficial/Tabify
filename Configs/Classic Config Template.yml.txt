@@ -1,0 +1,8 @@
+####################################
+#            TABIFY                #
+#       SURVIVAL TEMPLATE          #
+####################################
+
+Header: "&6&lMinecraft Server \n &fHello &e%player_name% \n &7Enjoy your adventure! \n%animations_<shine>==============================</shine>%"
+
+Footer: "%animations_<shine>==============================</shine>% \n &7Online since: &a%player_seconds_lived%s \n &7HP: &c%player_health%"

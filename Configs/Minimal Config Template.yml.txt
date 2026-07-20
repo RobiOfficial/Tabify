@@ -1,0 +1,8 @@
+####################################
+#            TABIFY                #
+#        MINIMAL TEMPLATE          #
+####################################
+
+Header: "&f&lSERVER NAME \n &7Player: &a%player_name% \n"
+
+Footer: "&8Health: &c%player_health% &8| &7Time: &a%player_seconds_lived%s"
